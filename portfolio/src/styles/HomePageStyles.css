@@ -69,7 +69,7 @@
   width: 90%;
   height: auto;
   background-color: rgb(236, 236, 236);
-  margin-bottom: 30px;
+  margin-bottom: 80px;
   margin-top: 50px;
   border-radius: 10px;
   display: flex;
@@ -114,7 +114,31 @@
   margin-top: 50px;
   margin-bottom: 50px;
   width: 800px;
-  height: 480px;
+  height: 500px;
+}
+
+@media screen and (max-width: 949px) {
+  .videoDiv {
+    width: 85%;
+  }
+}
+
+@media screen and (max-width: 665px) {
+  .videoDiv {
+    height: 400px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .videoDiv {
+    height: 325px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .videoDiv {
+    height: 250px;
+  }
 }
 
 .weddingVid {
@@ -140,5 +164,5 @@
 }
 
 .lowerPageLink:hover {
-  font-size: 22px;
+  color: blue;
 }

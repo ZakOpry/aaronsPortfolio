@@ -27,6 +27,18 @@
   font-family: "Hurricane", cursive;
 }
 
+@media screen and (max-width: 469px) {
+  .packages {
+    font-size: 125px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .packages {
+    font-size: 115px;
+  }
+}
+
 .groupOfCardsDiv {
   margin: 50px;
   width: 78%;
@@ -40,7 +52,7 @@
 .card {
   border-radius: 5px;
   border: solid 3px rgb(124, 124, 124);
-  height: 580px;
+  height: auto;
   width: 320px;
   background-color: rgb(248, 248, 248);
   margin: 20px;
@@ -75,4 +87,14 @@
 
 .custom {
   color: white;
+  margin-right: 8px;
+  margin-left: 8px;
+}
+
+.customDiv {
+  width: 100%;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
 }

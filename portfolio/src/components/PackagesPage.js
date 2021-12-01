@@ -13,7 +13,9 @@ export default function PackagesPage() {
         {packageData.map((items) => (
           <PackagePageCards package={items} />
         ))}
-        <h2 className="custom">Custom Packages Available Upon Request!</h2>
+        <div className="customDiv">
+          <h2 className="custom">Custom Packages Available Upon Request!</h2>
+        </div>
       </div>
     </div>
   );
