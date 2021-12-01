@@ -30,7 +30,7 @@ export const packageData = [
     body: [
       "- Pre ceremony shoot (first look)",
       "- Letters (you write a letter to each other and read it on camera)",
-      "- Couples story ( cinematic interview the bride/groom; you tell your story in detail)",
+      "- Couples story (cinematic interview the bride/groom; you tell your story in detail)",
       "- Ceremony with audio",
       "- Reception Coverage w big exit",
       "- Outtakes with your guest (they record you a short message for your video)",

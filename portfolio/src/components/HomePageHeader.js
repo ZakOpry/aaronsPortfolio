@@ -15,7 +15,7 @@ export default function HomePageHeader() {
         <source src={headerVid} type="video/mp4" />
       </video>
       <div className="caption">
-        <h1>Weddings.</h1>
+        <h1>Tug Films.</h1>
       </div>
     </div>
   );
