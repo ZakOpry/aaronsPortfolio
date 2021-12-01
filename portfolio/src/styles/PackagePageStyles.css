@@ -1,0 +1,78 @@
+.overAllDiv {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(41, 41, 41);
+}
+
+.upperPicDiv {
+  background-image: url("../Pictures/RingPic.jpg");
+  background-size: cover;
+  background-position-y: 50%;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.packages {
+  color: white;
+  font-size: 145px;
+  font-family: "Dancing Script", cursive;
+  font-family: "Estonia", cursive;
+  font-family: "Hurricane", cursive;
+}
+
+.groupOfCardsDiv {
+  margin: 50px;
+  width: 78%;
+  height: auto;
+  background-color: rgb(56, 56, 56);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  border-radius: 5px;
+  border: solid 3px rgb(124, 124, 124);
+  height: 580px;
+  width: 320px;
+  background-color: rgb(248, 248, 248);
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.titleDiv {
+  width: 80%;
+  border-bottom: solid black 1px;
+  justify-self: center;
+  align-self: center;
+  text-align: center;
+}
+
+.packageTitle {
+  font-size: 50px;
+  font-family: "Dancing Script", cursive;
+  font-family: "Estonia", cursive;
+  font-family: "Hurricane", cursive;
+  margin-bottom: 5px;
+}
+
+.price {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.bodyDetailsPtags {
+  margin-left: 10px;
+}
+
+.custom {
+  color: white;
+}
