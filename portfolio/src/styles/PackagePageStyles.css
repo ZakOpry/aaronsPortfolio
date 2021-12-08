@@ -39,6 +39,12 @@
   }
 }
 
+@media screen and (max-width: 339px) {
+  .packages {
+    font-size: 108px;
+  }
+}
+
 .groupOfCardsDiv {
   margin: 50px;
   width: 78%;
