@@ -5,8 +5,8 @@ export default function ContactPageForm() {
   return (
     <div className="mainFormDiv">
       <h1 className="mainBodyWords">
-        Please Enter Your Name and Email Address Below Followed by Your
-        Questions or Inquries and I Will Get Back With You.
+        Please enter your name and email address below followed by your
+        questions or inquries and I will get back with you.
       </h1>
 
       <form

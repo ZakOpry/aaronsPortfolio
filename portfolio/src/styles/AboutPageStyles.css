@@ -1,0 +1,12 @@
+.entireAboutPageDiv {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(41, 41, 41);
+}
+
+.aboutPagePicDiv {
+  height: 400px;
+  width: 100%;
+}
