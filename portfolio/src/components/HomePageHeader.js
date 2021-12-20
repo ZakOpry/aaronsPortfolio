@@ -11,7 +11,7 @@ export default function HomePageHeader() {
 
   return (
     <div className="headerVidDiv">
-      <video id="headerVideo" autoPlay muted loop>
+      <video id="headerVideo" autoPlay muted loop playsInline>
         <source src={headerVid} type="video/mp4" />
       </video>
       <div className="caption">
