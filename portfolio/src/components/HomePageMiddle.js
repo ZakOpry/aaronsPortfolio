@@ -22,7 +22,8 @@ export default function HomePageMiddle() {
           </p>
           <p>
             We are an experienced videography and editing company with weddings
-            in mind!
+            in mind! We're located in the Lafayette area and serve all
+            surrounding areas.
           </p>
           <p>
             We use top notch equipment to ensure nothing but quality so you can
