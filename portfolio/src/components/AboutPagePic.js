@@ -4,7 +4,7 @@ import AboutPic from "../Pictures/AboutPic.jpg";
 export default function AboutPagePic() {
   return (
     <div className="aboutPagePicDiv">
-      <img class="headerPic" src={AboutPic} />
+      <img class="headerPic" src={AboutPic} alt="loading" />
     </div>
   );
 }

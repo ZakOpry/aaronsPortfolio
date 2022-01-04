@@ -38,6 +38,12 @@
   font-family: "Hurricane", cursive;
 }
 
+@media screen and (max-width: 638px) {
+  .caption {
+    margin-top: 250px;
+  }
+}
+
 @media screen and (max-width: 491px) {
   .caption {
     font-size: 42px;
