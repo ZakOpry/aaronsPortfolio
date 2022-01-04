@@ -5,7 +5,6 @@ import { packageData } from "./PackageDetailsObject.js";
 import PackagePageUpperPic from "./PackagePageUpperPic";
 
 export default function PackagesPage() {
-  console.log(packageData);
   return (
     <div className="overAllDiv">
       <PackagePageUpperPic />
