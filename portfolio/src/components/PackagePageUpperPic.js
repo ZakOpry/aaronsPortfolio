@@ -1,6 +1,4 @@
-import React, { useImperativeHandle } from "react";
 import "../styles/PackagePageStyles.css";
-import RingPic from "../Pictures/RingPic.jpg";
 
 export default function PackagePageUpperPic() {
   return (

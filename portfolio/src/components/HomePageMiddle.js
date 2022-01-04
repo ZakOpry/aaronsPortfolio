@@ -33,6 +33,7 @@ export default function HomePageMiddle() {
         </div>
         <div className="videoDiv">
           <iframe
+            title="theVideo"
             className="weddingVid"
             src="https://drive.google.com/file/d/1iv5Jt0doAc3RaCrq0SzntyoTD_EJYiCw/preview"
             width="640"
