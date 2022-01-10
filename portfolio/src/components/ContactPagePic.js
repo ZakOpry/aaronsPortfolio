@@ -4,9 +4,7 @@ import contactpic from "../Pictures/contactPic.jpg";
 export default function ContactPagePic() {
   return (
     <div className="picContainer">
-      <img className="headerPic" src={contactpic} alt="loading">
-        {" "}
-      </img>
+      <img className="headerPic" src={contactpic} alt="loading"></img>
     </div>
   );
 }

@@ -19,7 +19,7 @@ export default function ContactPageForm() {
           id="yourName"
           type="text"
           name="name"
-          placeHolder="Name"
+          placeholder="Name"
           required
         />
         <input
@@ -27,7 +27,7 @@ export default function ContactPageForm() {
           id="yourEmail"
           type="email"
           name="email"
-          placeHolder="Email"
+          placeholder="Email"
           required
         />
         <input
