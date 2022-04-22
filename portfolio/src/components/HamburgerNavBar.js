@@ -29,7 +29,6 @@ export default function HamburgerNavBar() {
             className="link"
             to="/packages"
           >
-            {" "}
             <div className="navBarButton" id="dropDownProjects">
               <h3>Packages</h3>
             </div>
