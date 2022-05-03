@@ -21,9 +21,8 @@ export default function HomePageMiddle() {
             cherish and relive it over and over.
           </p>
           <p>
-            We are an experienced videography and editing company with weddings
-            in mind! We're located in the Lafayette area and serve all
-            surrounding areas.
+            We are an experienced wedding videography team! We're located in the
+            Lafayette area and serve all surrounding areas.
           </p>
           <p>
             We use top notch equipment to ensure nothing but quality so you can
